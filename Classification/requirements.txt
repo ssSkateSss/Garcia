@@ -1,0 +1,7 @@
+pandas
+numpy
+torch
+matplotlib
+scikit-learn==1.2.1
+notebook
+torchmetrics
