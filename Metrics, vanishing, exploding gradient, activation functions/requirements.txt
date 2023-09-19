@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyterlab
+seaborn
+ipympl==0.9.3
